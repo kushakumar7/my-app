@@ -1,4 +1,4 @@
-def login(user, password):
+def login(end, password):
 if user == "admin" and password == "admin":
 return "Login success"
-return "Invalid credentials1"
+king
